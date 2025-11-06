@@ -86,9 +86,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                <Icon name="Rocket" className="text-white" size={24} />
-              </div>
+              <img src="https://cdn.poehali.dev/projects/ded9d481-0531-450c-8592-9be315b448d5/files/16fa16c8-6b20-4ce7-ab6e-020966ab18a2.jpg" alt="БизнесСтарт" className="w-10 h-10 rounded-lg" />
               <span className="text-xl font-bold text-foreground">БизнесСтарт</span>
             </div>
             <div className="hidden md:flex items-center gap-6">
@@ -289,9 +287,7 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <div className="w-8 h-8 bg-background/10 rounded-lg flex items-center justify-center">
-                  <Icon name="Rocket" className="text-background" size={20} />
-                </div>
+                <img src="https://cdn.poehali.dev/projects/ded9d481-0531-450c-8592-9be315b448d5/files/16fa16c8-6b20-4ce7-ab6e-020966ab18a2.jpg" alt="БизнесСтарт" className="w-8 h-8 rounded-lg" />
                 <span className="font-bold">БизнесСтарт</span>
               </div>
               <p className="text-sm text-background/70">Платформа быстрого запуска онлайн-бизнеса</p>
